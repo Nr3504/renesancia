@@ -1,2 +1,1 @@
-# renesancia
-Projekt z renesancie
+ŽABA jak vždy
